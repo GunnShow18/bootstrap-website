@@ -1,0 +1,7 @@
+.jumbotron {background-color: darkblue;
+            color: white;
+            border: solid;
+            border-width: 2px;
+            border-color: black;}
+.col-sm-12 {background-color: gold;
+            border: solid;}
